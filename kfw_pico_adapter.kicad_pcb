@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210722) (generator pcbnew)
+(kicad_pcb (version 20210824) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -52,7 +52,7 @@
       (creategerberjobfile false)
       (svguseinch false)
       (svgprecision 6)
-      (excludeedgelayer true)
+      (excludeedgelayer false)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -2354,7 +2354,7 @@
   (gr_text "GP28" (at 129.626952 63.06525) (layer "B.SilkS") (tstamp 15095923-dcc7-43cd-9acb-e0b968d256ab)
     (effects (font (size 0.85 0.85) (thickness 0.15)) (justify right mirror))
   )
-  (gr_text "Keyboard FeatherWing\nRaspberry Pi Pico Adapter\nby arturo182\nMar 2021" (at 161.036 95.8375) (layer "B.SilkS") (tstamp 178df5f6-b8a1-4c8b-882b-d112d3dbc480)
+  (gr_text "Keyboard FeatherWing\nRaspberry Pi Pico Adapter\nby arturo182\nSep 2021" (at 161.036 95.8375) (layer "B.SilkS") (tstamp 178df5f6-b8a1-4c8b-882b-d112d3dbc480)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "D10 (GP9)" (at 153.423571 77.809) (layer "B.SilkS") (tstamp 19698130-6d63-4d3d-8dfd-1fe0480c0c23)
@@ -2894,7 +2894,7 @@
   (gr_text "GP6" (at 117.856 68.199) (layer "F.SilkS") (tstamp bdf89c0d-c7d9-463d-9b4b-adddaf8082d3)
     (effects (font (size 0.85 0.85) (thickness 0.15)) (justify left))
   )
-  (gr_text "Keyboard FeatherWing\nRaspberry Pi Pico Adapter\nby arturo182\nMar 2021" (at 161.036 95.885) (layer "F.SilkS") (tstamp c0a7241d-ca41-424d-b75a-582a36638740)
+  (gr_text "Keyboard FeatherWing\nRaspberry Pi Pico Adapter\nby arturo182\nSep 2021" (at 161.036 95.885) (layer "F.SilkS") (tstamp c0a7241d-ca41-424d-b75a-582a36638740)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "GP22" (at 133.096 75.819) (layer "F.SilkS") (tstamp c3cd72a0-6481-4629-a9dd-26a8af8ff781)
